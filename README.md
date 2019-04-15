@@ -1,1 +1,1 @@
-# belajas_js
+# javascript
