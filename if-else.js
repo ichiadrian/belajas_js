@@ -1,4 +1,4 @@
-function jalanSatu(){
+  function jalanSatu(){
   var nilai = 3;
 
     if (nilai === 3 ){

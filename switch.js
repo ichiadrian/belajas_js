@@ -12,7 +12,7 @@ function testingSwitch(){
       console.log("Cukup");
     break;
     default:
-      console.log("Lainya");
+      console.log("buruk");
   }
 }
 

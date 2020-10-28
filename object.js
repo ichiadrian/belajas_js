@@ -3,7 +3,7 @@ function panggilObject(){
     merek: 'Honda CRZ',
     type: 'City Car',
     warna : 'Merah',
-   harga: 2000000000000,
+   harga: 800000000,
    tahun: [2008,2009,2007,2014,2019]
   }
   //console.log(mobil);

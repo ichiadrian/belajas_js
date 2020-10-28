@@ -10,3 +10,4 @@ if(true){
 }
 console.log("enak enak", msg)
 console.log(msg1)
+  

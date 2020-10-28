@@ -1,7 +1,7 @@
 function panggilShift(){
     var data = ["Bekasi","Jakarta","Bogor","Bandung","Tambun"]
     console.log(data);
-    console.log("=======================================");
+    console.log('=======================================');
 
     //kota = data.shift();
 /*menghapus data atau menghide data dri data yg pling awal stiap di
@@ -13,3 +13,4 @@ yg di hapus*/
     return data
   }
 console.log(panggilShift());
+// return panggilShift();

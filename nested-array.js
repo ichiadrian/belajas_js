@@ -1,5 +1,5 @@
 function panggilNestedArray(){
-  var dataNama = [["1","2","3","6","7","8"],
+  const dataNama = [["1","2","3","6","7","8"],
                   ["Ryan","annisa","Nita","aldo"],
                   ["Fik","Stikes","FH","Agro"]]
 
@@ -9,4 +9,6 @@ function panggilNestedArray(){
   console.log(dataNama[2][0]);
 }
 
-panggilNestedArray()
+panggilNestedArray();
+
+
