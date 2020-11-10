@@ -8,3 +8,12 @@ function say(message) {
 
 say('dodol aja lu')
 // module.exports = say;
+// 
+// 
+// module.exports = say;
+// module.exports = say;
+
+// module.exports = say;
+
+// module.exports = say;
+
